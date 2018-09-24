@@ -23,7 +23,7 @@ L.tileLayer.provider('Stamen.Watercolor').addTo(map);
 
 # Providers
 
-Leaflet-providers provides tile layers from different providers, including *OpenStreetMap*, *Stamen*, *Esri* and *OpenWeatherMap*. The full listing of free to use layers can be [previewed](http://leaflet-extras.github.io/leaflet-providers/preview/index.html). The page will show you the name to use with `leaflet-providers.js` and the code to use it without dependencies.
+Leaflet-providers provides tile layers from different providers, including *OpenStreetMap*, *Stamen*, *Esri* and *OpenWeatherMap*. The full listing of free to use layers can be [previewed](https://rifkifau.github.io/leaflet-providers/preview/index.html). The page will show you the name to use with `leaflet-providers.js` and the code to use it without dependencies.
 
 ## Providers requiring registration
 
@@ -40,7 +40,7 @@ L.tileLayer.provider('HERE.terrainDay', {
 }).addTo(map);
 ```
 
-[Available HERE layers](http://leaflet-extras.github.io/leaflet-providers/preview/#filter=HERE)
+[Available HERE layers](https://rifkifau.github.io/leaflet-providers/preview/#filter=HERE)
 
 ### Mapbox
 
@@ -63,7 +63,7 @@ L.tileLayer.provider('Thunderforest.Landscape', {apikey: '<insert api_key here>'
 
 In order to use ArcGIS maps, you must [register](https://developers.arcgis.com/en/sign-up/) and abide by the [terms of service](https://developers.arcgis.com/en/terms/). No special syntax is required.
 
-[Available Esri layers](http://leaflet-extras.github.io/leaflet-providers/preview/#filter=Esri)
+[Available Esri layers](https://rifkifau.github.io/leaflet-providers/preview/#filter=Esri)
 
 ### Geoportail France
 
